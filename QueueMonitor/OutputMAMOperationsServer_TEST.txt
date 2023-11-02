@@ -1,0 +1,47 @@
+SUBJECT: /TAICHUNG_BE/MTI/MFG/MAMOPERATIONSSERVER/TEST
+NEW REPLY
+Program Description: Log equip and all descendants
+Program Owner: CLSUTHERLAND
+Hostname: TBWMESTEST02
+Unique Name: /TAICHUNG_BE/_TBWMESTEST02_14524_vc80
+Start Time: Mon Mar 28 16:38:50 2022
+Receive Queue Size: 0
+Receive Success Count: 21
+Receive Failure Count: 0
+Messages Received/Minute: 1.693548
+Messages Sent/Minute: 2.661290
+Synch Send Success Count: 0
+Synch Send Failure Count: 0
+Synch Send Timeout Count: 0
+Asynch Send Success Count: 33
+Asynch Send Failure Count: 0
+Priority Send Success Count: 0
+SendReceive Success Count: 0
+SendReceive Failure Count: 0
+Max Recv Msg Length: 499
+Max Send Msg Length: 12181
+Read Thread Failure Count: 0
+Invalid API Parameter Count: 0
+NEW REPLY
+Program Description: MAMOPERATIONSSERVER
+Program Owner: TBWMESTEST01$@micron.com
+Hostname: TBWMESTEST01
+Unique Name: /TAICHUNG_BE/_TBWMESTEST01_19104_vc80
+Start Time: Mon Mar 28 16:37:20 2022
+Receive Queue Size: 0
+Receive Success Count: 24
+Receive Failure Count: 0
+Messages Received/Minute: 1.726619
+Messages Sent/Minute: 2.805755
+Synch Send Success Count: 0
+Synch Send Failure Count: 0
+Synch Send Timeout Count: 0
+Asynch Send Success Count: 39
+Asynch Send Failure Count: 0
+Priority Send Success Count: 0
+SendReceive Success Count: 0
+SendReceive Failure Count: 0
+Max Recv Msg Length: 39
+Max Send Msg Length: 12695
+Read Thread Failure Count: 0
+Invalid API Parameter Count: 0

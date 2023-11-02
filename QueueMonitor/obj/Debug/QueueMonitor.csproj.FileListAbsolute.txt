@@ -1,0 +1,197 @@
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\Autofac.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\log4net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\Autofac.pdb
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\bin\Debug\Autofac.xml
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\Users\ohung\Desktop\QueueMonitor\QueueMonitor\obj\Debug\QueueMonitor.pdb
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\log4net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.pdb
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.xml
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.pdb
+C:\Users\ohung\Desktop\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.csprojResolveAssemblyReference.cache
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\log4net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.pdb
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.xml
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.csproj.CoreCompileInputs.cache
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.pdb
+C:\#OreoDocument\#Oreo Drive\My Document\Code\Project\26. NewQueueMonitor\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.csprojResolveAssemblyReference.cache
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\log4net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.pdb
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\bin\Debug\Autofac.xml
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.csproj.CoreCompileInputs.cache
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.pdb
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\log4net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.pdb
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.xml
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csproj.CoreCompileInputs.cache
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\Users\ohung\Desktop\queuemonitor-master\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.pdb
+C:\#OreoDocument\share\QueueMonitor 0002.00\QueueMonitor\obj\Debug\QueueMonitor.csprojResolveAssemblyReference.cache
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\Autofac.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\log4net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\Autofac.pdb
+C:\TEMP\queuemonitor\QueueMonitor\bin\Debug\Autofac.xml
+C:\TEMP\queuemonitor\QueueMonitor\obj\Debug\QueueMonitor.csprojResolveAssemblyReference.cache
+C:\TEMP\queuemonitor\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\TEMP\queuemonitor\QueueMonitor\obj\Debug\QueueMonitor.pdb
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+D:\OPS\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.exe
+D:\OPS\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.pdb
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.pdb
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\log4net.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.datetime.net.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.encryption.net.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mipc.net.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.security.net.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.user.net.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.pdb
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.xml
+D:\OPS\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csprojResolveAssemblyReference.cache
+D:\OPS\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\log4net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.pdb
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.xml
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csprojAssemblyReference.cache
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csproj.CoreCompileInputs.cache
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csproj.CopyComplete
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\Users\wunciangchen\Desktop\repo\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.pdb
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\log4net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.pdb
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.xml
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csprojAssemblyReference.cache
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csproj.CoreCompileInputs.cache
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csproj.CopyComplete
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\Users\lichiasin\Documents\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.pdb
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe.config
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.exe
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\QueueMonitor.pdb
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\log4net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.datetime.net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.encryption.net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\Micron.FSS.Procman.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mipc.net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtexception.net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.mtgroup.net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.security.net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\micron.user.net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\Micron.Web.Net.dll
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.pdb
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\bin\Debug\Autofac.xml
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csprojAssemblyReference.cache
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csproj.CoreCompileInputs.cache
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.csproj.CopyComplete
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.exe
+C:\Users\wunciangchen\Desktop\Project\queuemonitor-master\QueueMonitor\obj\Debug\QueueMonitor.pdb
